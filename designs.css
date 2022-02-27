@@ -1,0 +1,41 @@
+body {
+    background-color: floralwhite;
+    text-align: center;
+}
+
+.card {
+    width: 250px;
+    text-align: center;
+    background: floralwhite;
+    border: 2px solid #EDCDBB;
+    display: inline-block;
+    background-color: #FFEDDB
+    margin: 5px 5px
+    overflow: hidden
+}
+
+.card img {
+    width: 250px;
+    height: 175px
+}
+
+#banner{
+    height: 300px;
+    background-image: url(potato_house_images/bg1.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.banner p{
+    text-align: bottom;
+}
+
+.nav {
+    border: 3px solid #FDEFF4
+}
+
+.nav ul li {
+    list-style-type: none;
+    display: inline-block;
+    width: 25%
+}
